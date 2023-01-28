@@ -43,3 +43,32 @@ else:
         print("Goal state not present in the state space.")
     else:
         print("Goal state not approachable from the initial state.")
+   
+'''
+i1.txt
+
+8
+1 2 4
+1 2 5
+3 4 7
+3 4
+5 6
+5 6 8
+7 8
+7 8
+1
+7
+--------------------------------------
+i2.txt
+
+7
+2 3
+4 5
+6 7
+5
+
+7
+4
+1
+6
+'''
